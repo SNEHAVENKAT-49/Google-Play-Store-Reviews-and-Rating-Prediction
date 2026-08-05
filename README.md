@@ -1,5 +1,4 @@
-# Google Play Store Reviews Analysis
-
+# Google Play Store App Reviews and Rating Prediction using Machine Learning
 ## Project Description
 This project analyzes Google Play Store applications and user reviews to understand app ratings, reviews, and trends.
 
